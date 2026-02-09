@@ -265,6 +265,9 @@ jspm_packages/
 .env.local
 .env.development
 
+# Database migrations
+migrations/
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
